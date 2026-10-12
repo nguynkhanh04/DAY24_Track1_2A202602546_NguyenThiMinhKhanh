@@ -15,7 +15,7 @@
 ---
 
 ### II. CÁC TÀI LIỆU TRONG REPOSITORY
-1. **`TungTungTungSahur_CS9.xlsx`**: File Excel bài làm hoàn chỉnh, đầy đủ công thức và giá trị đã được tính toán, kiểm thử đạt chuẩn 100% trên toàn bộ các sheet:
+1. **`DAY24_Track1_2A202602546_NguyenThiMinhKhanh.xlsx`**: File Excel bài làm hoàn chỉnh, đầy đủ công thức và giá trị đã được tính toán, kiểm thử đạt chuẩn 100% trên toàn bộ các sheet:
    * `0_Đầu vào`: Thông tin nhóm và đánh dấu đầu vào.
    * `A_Tài chính căn bản`: 3 báo cáo tài chính cân và khớp 100%, trả lời 4 câu hỏi nhận định, bài toán đầu tư máy chủ (mua vs thuê).
    * `1_Chi phí mỗi việc`: Tính toán chi phí phục vụ 1 việc (Job Unit Economics) với mô hình Claude Sonnet và quy trình Human-in-the-loop.
